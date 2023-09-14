@@ -81,7 +81,7 @@ public class Ejemplo extends JFrame implements ActionListener {
 		listado(c);
 		
 		imprimir("------------------------------------");
-		imprimir("cantidad de estudiantes :  " + Alumno.getCantidad());
+		imprimir("cantidad de alumnos :  " + Alumno.getCantidad());
 		imprimir("entidad educativa   :  " + Alumno.ENTIDAD);
 		imprimir("------------------------------------");
 		imprimir();
