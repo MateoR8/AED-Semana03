@@ -1,0 +1,9 @@
+INDEX VERSION 1.131+C:\Users\Mateo\Desktop\Ciclo II\Algoritmia y estructura de datos\Semana 3\Semana_03\.metadata\.plugins\org.eclipse.jdt.core
+3071866523.index
+3276021434.index
+759857046.index
+1515015936.index
+14526675.index
+469955989.index
+2232132655.index
+1795540227.index
